@@ -1,4 +1,5 @@
 # Тестовое задание на позицию "Программист-микроконтроллеров"
+[![career.habr](https://img.shields.io/static/v1?label=career&message=habr&color=65A3BE&logo=habr)](https://career.habr.com/companies/decast)
 
 ## Задание
 
